@@ -1,0 +1,4 @@
+apiVersion: v1
+description: "Production env - Helm demo chart"
+name: production
+version: "1.0.0"
